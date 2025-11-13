@@ -22,7 +22,7 @@
 
 ### 🌍 Connect with Me  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anil-maurya-2860b2206)  
-- 🧑‍💻 [GitHub](https://github.com/anilmaurya)  
+- 🧑‍💻 [GitHub]https://github.com/anilmaurya)
 - ✉️ Email: anil.maurya@studenti.unicam.it
 
 ---
